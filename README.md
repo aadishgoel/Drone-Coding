@@ -1,6 +1,8 @@
 # Drone-Coding
 Controlling Tello drone through code envirnoment of MIT Scratch
 
+![](Tello.png)
+
 ### Open CMD in Scratch Folder and Run Node Server
 ``` 
 node Tello.js
@@ -22,4 +24,10 @@ node Tello.js
 | Press Key S      | Fly Backward 
 | Press Key A      | Fly Left 
 | Press Key D      | Fly Right
+| **Press Key P**      | **Takes off, Fly in a square pattern and then Lands**
 
+### Demo
+![](Scratch.png)
+
+#### Optionally can be contolled by Tello mobile app
+![](mobileController.png)
